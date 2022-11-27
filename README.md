@@ -1,1 +1,2 @@
-# Code Refactor Starter Code
+# Code Refactor Project
+This project was created in order to learn about basic HTML, CSS, and GIT. I took starter coded and refctored it to add semantic, structured HTML elements, a title, and alt image attributes. I starte with base code that needed to be modified.
