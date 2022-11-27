@@ -1,2 +1,0 @@
-# Code Refactor Project
-This project was created in order to learn about basic HTML, CSS, and GIT. I took starter code and refactored it to add semantic, structured HTML elements, a title, and alt image attributes. I started with base code that needed to be modified, and made the necessary adjustments.
